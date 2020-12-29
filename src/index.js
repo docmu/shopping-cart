@@ -4,10 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 const ITEMS = [
-  {name: "apples", price: "1.00", amount: 0},
-  {name: "lychee", price: "2.50", amount: 0},
-  {name: "mango", price: "1.50", amount: 0},
-  {name: "watermelon", price: "5.00", amount: 0},
+  {name: "apples", price: "1.00"},
+  {name: "lychee", price: "2.50"},
+  {name: "mango", price: "1.50"},
+  {name: "watermelon", price: "5.00"},
 ];
 
 ReactDOM.render(
